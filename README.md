@@ -2,4 +2,4 @@
 
 Calculadora básica para treinar códigos em python.
 
-![Meu código](img/code.png)
+![](img/code.png)
